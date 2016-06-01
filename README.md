@@ -93,6 +93,10 @@ https://github.com/s4n7h0/xvwa
 
 ##CTF Sites
 
+http://warzone.elhacker.net/
+
+http://www.yashira.org/
+
 http://halls-of-valhalla.org/beta/challenges
 
 https://xss-game.appspot.com/
