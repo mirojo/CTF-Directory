@@ -1,6 +1,23 @@
 # CTF-Directory
 
+##Awesome
+
+https://github.com/apsdehal/awesome-ctf
+
+##CTF Repo
+
+https://github.com/ctfs/write-ups-2015
+
+
+
 ##Vulnerable Web applications
+
+
+https://github.com/moloch--/RootTheBox
+
+https://github.com/Nakiami/mellivora
+
+https://github.com/facebook/fbctf
 
 https://github.com/psiinon/bodgeit
 
@@ -48,6 +65,8 @@ https://www.owasp.org/index.php/OWASP_Security_Shepherd
 
 https://github.com/dobin/SentinelTestbed
 
+http://escape.alf.nu/
+
 https://digi.ninja/projects/sockettome.php
 
 http://suif.stanford.edu/~livshits/securibench/
@@ -72,3 +91,56 @@ https://github.com/s4n7h0/xvwa
 
 ##CTF Sites
 
+http://halls-of-valhalla.org/beta/challenges
+
+https://xss-game.appspot.com/
+
+https://www.hackthissite.org/
+
+http://www.wablab.com/hackme
+
+http://www.hackertest.net/
+
+http://overthewire.org/wargames/
+
+https://challenges.ka0labs.org/home
+
+http://smashthestack.org/
+
+https://ringzer0team.com/
+
+http://www.dareyourmind.net/
+
+https://www.hacking-lab.com/index.html
+
+https://microcorruption.com/login
+
+https://pod.cybersecuritychallenge.org.uk/
+
+http://www.enigmagroup.org/pages/challenges
+
+https://pwn0.com/home.php
+
+http://sqlzoo.net/hack/
+
+http://www.bright-shadows.net/
+
+http://www.try2hack.nl/
+
+https://backdoor.sdslabs.co/
+
+https://exploit-exercises.com/
+
+https://www.hackthis.co.uk/
+
+##CTF Rankings
+
+http://www.wechall.net
+
+https://ctfs.me/
+
+https://ctftime.org/ctfs/
+
+##CTF News
+
+https://www.reddit.com/r/securityctf
