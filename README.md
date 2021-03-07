@@ -105,7 +105,7 @@ https://sourceforge.net/projects/websecuritydojo/files/
 
 https://github.com/s4n7h0/xvwa
 
-##CTF Sites
+## CTF Sites
 
 https://www.root-me.org
 
@@ -155,7 +155,7 @@ https://exploit-exercises.com/
 
 https://www.hackthis.co.uk/
 
-##CTF Mobile
+## CTF Mobile
 
 https://github.com/payatu/diva-android/
 
@@ -169,7 +169,7 @@ http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx
 
 https://github.com/jackMannino/OWASP-GoatDroid-Project
 
-##CTF Rankings
+## CTF Rankings
 
 http://www.wechall.net
 
@@ -177,6 +177,6 @@ https://ctfs.me/
 
 https://ctftime.org/ctfs/
 
-##CTF News
+## CTF News
 
 https://www.reddit.com/r/securityctf
