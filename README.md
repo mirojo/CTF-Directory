@@ -1,5 +1,12 @@
 # CTF-Directory
 
+If you want to add more in thsi list send me a pull request or visit me on my sites:
+
+mirojo.es
+
+https://www.youtube.com/channel/UCu_vC86tswfu5XITDV4Ex4Q
+
+
 ##Awesome
 
 https://github.com/apsdehal/awesome-ctf
