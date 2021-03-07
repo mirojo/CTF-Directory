@@ -4,6 +4,10 @@
 
 https://github.com/apsdehal/awesome-ctf
 
+https://github.com/joe-shenouda/awesome-cyber-skills
+
+
+
 ##CTF Repo
 
 https://github.com/ctfs/write-ups-2015
