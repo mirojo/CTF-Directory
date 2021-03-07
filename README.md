@@ -7,7 +7,7 @@ mirojo.es
 https://www.youtube.com/channel/UCu_vC86tswfu5XITDV4Ex4Q
 
 
-##Awesome
+## Awesome
 
 https://github.com/apsdehal/awesome-ctf
 
@@ -18,7 +18,7 @@ https://github.com/carpedm20/awesome-hacking
 https://github.com/apsdehal/awesome-ctf
 
 
-##CTF Repo
+## CTF Repo
 
 https://github.com/ctfs/write-ups-2015
 
@@ -27,7 +27,7 @@ http://shell-storm.org/repo/CTF/
 http://captf.com/
 
 
-##Vulnerable Web applications
+## Vulnerable Web applications
 
 https://github.com/moloch--/RootTheBox
 
